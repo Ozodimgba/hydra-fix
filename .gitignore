@@ -1,0 +1,6 @@
+#node_wallet
+node_modules
+#lib
+lib
+
+dist
